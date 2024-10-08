@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.35229.62
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NavisworksDefectPlugin9", "NavisworksDefectPlugin9\NavisworksDefectPlugin9.csproj", "{591E41F0-B75C-4092-9FD3-E9FABB704E39}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Debug|x64.ActiveCfg = Debug|x64
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Debug|x64.Build.0 = Debug|x64
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Release|Any CPU.Build.0 = Release|Any CPU
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Release|x64.ActiveCfg = Release|x64
+		{591E41F0-B75C-4092-9FD3-E9FABB704E39}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB0DEA71-4543-49BA-8C87-20B59B73AFF9}
+	EndGlobalSection
+EndGlobal
